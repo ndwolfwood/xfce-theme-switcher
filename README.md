@@ -59,6 +59,6 @@ In order to run the script it must be added to ausotrat. For this you have to to
 ## Script details and customization
 
 The script will automatically run at every login, and then in every 5 min (300 sec).
-Once executed it will check currently applied theme and current time, and will switch the theme if necessary based on determined time range (originally: daytime hours from 7am to 8pm and night hours from 8pm to 7am - times added in 24 hr formt).
+Once executed it will check currently applied theme and current time, and will switch the theme if necessary based on determined time range (originally: daytime hours from 7am to 8pm and night hours from 8pm to 7am - times added in 24 hr format).
 
 Times and theme names are modifiable to meet your specific demands (while it is designed to change between light and dark themes during day and night periods of time you can just switch between any two different themes and at any periods of day).
