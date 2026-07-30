@@ -56,6 +56,10 @@ In order to run the script it must be added to ausotrat. For this you have to to
 
 7. Restart the system (or alternatively log out and log in again).
 
+8. To test if the process is running use below terminal command:
+
+```  ps -ef | grep theme-switch.sh ``` 
+
 ## Script details and customization
 
 The script will automatically run at every login, and then in every 5 min (300 sec).
