@@ -34,7 +34,7 @@ In order to use this script the following prerequisites must be met:
 
 ## Adding the script to XFCE Autostart
 
-In order to run the script it must be added to ausotrat. For this you have to to the following:
+In order to run the script it must be added to autostart. For this you have to to the following:
 
 1. Open XFCE Settings Manager.
 
@@ -42,7 +42,7 @@ In order to run the script it must be added to ausotrat. For this you have to to
 
 3. Switch to 'Application Autostart' tab.
 
-4. Click on '+ Add' button and in pop-up window fill-in the relevant fields:
+4. Click on '+ Add' button and in opened pop-up window fill-in the relevant fields:
    
 ```  Name: 'Theme Switcher Script' (or any other desired name)  ``` 
 
